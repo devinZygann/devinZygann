@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @devinZygann
+- 👀 I’m interested in programming software.
+- 🌱 I’m currently learning Angular
+- 😄 Pronouns: He/Him
