@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devin</h1>
 <h3 align="center">I'm a software developer at the beginning.</h3>
-
+<h6 align="center">And I ❤️  OpenSource</h6>
 - 🌱 I’m currently learning **Angular, TypeScript**
 
 - ⚡ Fun fact **I love OpenSource**
