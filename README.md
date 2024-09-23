@@ -32,7 +32,6 @@
     <a href="https://www.sass-lang.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
     </a>
-
 </p>
 
 <h3 align="left">Frameworks:</h3>
@@ -101,8 +100,6 @@
    <a href="https://www.openssh.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40"/>
     </a>
-   
-
 </p>
 
 <h3>OS:</h3>
@@ -115,7 +112,6 @@
     </a><a href="https://microsoft.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/windows11/windows11-original-wordmark.svg" alt="insomnia" width="40" height="40"/>
     </a>
-
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devinzygann&show_icons=true&locale=en" alt="devinzygann"/></p>
