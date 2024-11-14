@@ -51,6 +51,9 @@
     <a href="https://m3.material.io/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/mongoose/mongoose-original-wordmark.svg" alt="Mongoose" width="40" height="40"/>
     </a>
+    <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
 </p>
 
 <h3>Tools:</h3>
