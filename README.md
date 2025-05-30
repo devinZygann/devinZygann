@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software developer at the beginning of an apprenticeship.</h3>
 <h6 align="center">And I ❤️ OpenSource</h6>
 
-- 🌱 I’m currently learning **Angular, TypeScript**
+- 🌱 I’m currently learning **NestJS**
 
 - ⚡ Fun fact **I love OpenSource**
 
