@@ -39,6 +39,9 @@
     <a href="https://www.angular.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/angular/angular-original.svg" alt="javascript" width="40" height="40"/>
     </a>
+    <a href="https://www.vuejs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
     <a href="https://www.getbootstrap.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/bootstrap/bootstrap-original.svg" alt="javascript" width="40" height="40"/>
     </a>
