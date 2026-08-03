@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devin</h1>
-<h3 align="center">I'm a software developer at the last year of my apprenticeship.</h3>
+<h3 align="center">I'm a software developer in the last year of my apprenticeship.</h3>
 <h6 align="center">And I ❤️ OpenSource</h6>
 
 - 🌱 I’m currently learning **System Design**
